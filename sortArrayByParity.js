@@ -9,4 +9,3 @@ var sortArrayByParity = function (A) {
     }
     return res;
 };
-
