@@ -15,3 +15,4 @@ var flipAndInvertImage = function (A) {
     }
     return res;
 };
+
