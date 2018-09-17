@@ -15,3 +15,4 @@ var uniqueMorseRepresentations = function (words) {
     }
     return res.length;
 };
+
