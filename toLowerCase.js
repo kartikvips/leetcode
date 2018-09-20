@@ -10,4 +10,5 @@ var toLowerCase = function (str) {
         }
     }
     return out.join("");
+    
 };
