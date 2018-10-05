@@ -19,6 +19,7 @@ var maxIncreaseKeepingSkyline = function (grid) {
     return sum;
 };
 
+
 function leftView(grid){
     let res = [];
     for(let i = 0; i<grid.length; i++){
