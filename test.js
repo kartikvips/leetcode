@@ -18,3 +18,4 @@ function pingPongFilter(arr) {
 
 }
 console.log(pingPongFilter([1, 2, 3, 4, 5, 6, 7, 8]));
+
